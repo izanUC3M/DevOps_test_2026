@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "homepage": "https://izanuc3m.github.io/DevOps_test_2026/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
